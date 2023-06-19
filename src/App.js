@@ -6,7 +6,6 @@ import ProductListing from './Components/Containers/ProductListing'
 
 
 function App() {
-
   return (
     <div className="App">
       <BrowserRouter>
